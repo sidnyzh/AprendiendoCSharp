@@ -1,0 +1,15 @@
+C:\Users\Administrador\source\repos\tryout\tryout\bin\Debug\net6.0\tryout.exe
+C:\Users\Administrador\source\repos\tryout\tryout\bin\Debug\net6.0\tryout.deps.json
+C:\Users\Administrador\source\repos\tryout\tryout\bin\Debug\net6.0\tryout.runtimeconfig.json
+C:\Users\Administrador\source\repos\tryout\tryout\bin\Debug\net6.0\tryout.dll
+C:\Users\Administrador\source\repos\tryout\tryout\bin\Debug\net6.0\tryout.pdb
+C:\Users\Administrador\source\repos\tryout\tryout\obj\Debug\net6.0\tryout.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\tryout\tryout\obj\Debug\net6.0\tryout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\tryout\tryout\obj\Debug\net6.0\tryout.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\tryout\tryout\obj\Debug\net6.0\tryout.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\tryout\tryout\obj\Debug\net6.0\tryout.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\tryout\tryout\obj\Debug\net6.0\tryout.dll
+C:\Users\Administrador\source\repos\tryout\tryout\obj\Debug\net6.0\refint\tryout.dll
+C:\Users\Administrador\source\repos\tryout\tryout\obj\Debug\net6.0\tryout.pdb
+C:\Users\Administrador\source\repos\tryout\tryout\obj\Debug\net6.0\tryout.genruntimeconfig.cache
+C:\Users\Administrador\source\repos\tryout\tryout\obj\Debug\net6.0\ref\tryout.dll
