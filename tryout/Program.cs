@@ -36,6 +36,7 @@ people.Add(new Person("Dayana", new DateTime(1995, 05, 16),'F'));
 people.Add(new Person("Melissa", new DateTime(2019, 10, 25),'F')); 
 people.Add(new Person("Natalia", new DateTime(1994, 11, 02),'F')); 
 people.Add(new Person("Dahiana", new DateTime(1991, 07, 06),'F'));
+people.Add(new Person("Ernesto Perez", new DateTime(1882, 03, 06),'M'));
 
 Person person = new Person();
 
